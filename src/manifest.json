@@ -1,12 +1,12 @@
 {
-    "manifest_version": 2,
-    "minimum_chrome_version": "22",
+    "manifest_version": 3,
+    "minimum_chrome_version": "88",
 
     "author": "Steven Roberts",
-    "homepage_url": "https://github.com/Steven-Roberts/Word-Counter-Plus",
+    "homepage_url": "https://github.com/bryanb/Word-Counter-Plus-3.0",
     "name": "Word Counter Plus",
-    "description": "Provides a right click context menu to get stats on the selected text",
-    "version": "2.0.0",
+    "description": "Provides a right click context menu to get stats on the selected text.  Just an updated version of Steven Roberts original Word Counter Plus for Chrome Manifest V3.",
+    "version": "3.0.0",
 
     "icons": {
         "16": "icon-16.png",
